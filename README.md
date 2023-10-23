@@ -1,2 +1,2 @@
-# CodSoft-Task1
+# CodSoft-Task-2
 Web Development (Landing Page )
